@@ -1,3 +1,4 @@
+![logo](https://github.com/shemanto27/shemanto27/blob/main/Black%20Minimalist%20Digital%20Marketing%20LinkedIn%20Banner%20.png)
 <h1 align="center">Hi 👋, I'm Bidut Sharkar Shemanto</h1>
 <h3 align="center">Trying to built stuff and telling story with Code✨</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif">
