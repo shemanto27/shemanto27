@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bidut Sharkar Shemanto</h1>
 <h3 align="center">Trying to built stuff and telling story with Code✨</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F449304500298392085%2F&psig=AOvVaw2xgfuj8Oqc8Nkop4CTp2f4&ust=1696526061438000&source=images&cd=vfe&opi=89978449&ved=0CBIQjhxqFwoTCLCp0Jvy3IEDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F449304500298392085%2F&psig=AOvVaw2xgfuj8Oqc8Nkop4CTp2f4&ust=1696526061438000&source=images&cd=vfe&opi=89978449&ved=0CBIQjhxqFwoTCLCp0Jvy3IEDFQAAAAAdAAAAABAE](https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shemanto27&label=Profile%20views&color=0e75b6&style=flat" alt="shemanto27" /> </p>
 
