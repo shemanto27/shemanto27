@@ -7,14 +7,13 @@
 
 - 🌱 I’m currently learning **IoT, Data Science, Machine Learning, Microsoft Azure**
 
-- 📝 My Blog: Shemanto's Coding Tales, where technology meets storytelling! 📖 [https://medium.com/@shemantoscodingtales](https://medium.com/@shemantoscodingtales)
+- 📝 My Blog: Shemanto's Coding Tales, where technology meets storytelling! 📖 [Shemanto's Coding Tales Blog](https://shemantoscodingtales.hashnode.dev/)
 
 - 📫 How to reach me **shemantosharkarofficial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shemanto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shemanto/" height="30" width="40" /></a>
-<a href="https://medium.com/@shemantoscodingtales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shemantoscodingtales" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/shemanto sharkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shemanto sharkar" height="30" width="40" /></a>
 </p>
 
