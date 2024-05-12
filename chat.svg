@@ -282,7 +282,6 @@
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Fall in love with Data ❤️</text>    
-    <text x="15" y="50">Building RAGrank and Auto Playground</text>
   </g>
 
   <!-- typing 4 -->
@@ -330,7 +329,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="300" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">please reach out via <a xlink:href="https://www.linkedin.com/in/izammohammed/">Linkedin ...</a></text>    
+    <text x="15" y="27">please reach out via <a xlink:href="https://www.linkedin.com/in/shemanto/">Linkedin ...</a></text>    
   </g>  
   
 
