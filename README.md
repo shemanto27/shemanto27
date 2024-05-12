@@ -1,5 +1,5 @@
-[![](https://github.com/shemanto27/shemanto27/blob/main/chat.svg)](https://www.linkedin.com/in/shemanto/)
+[![](https://github.com/izam-mohammed/izam-mohammed/blob/feature/chat.svg)](https://www.linkedin.com/in/izammohammed/)
 
 
 
-[![](https://github.com/shemanto27/shemanto27/blob/main/github-contribution-grid-snake.svg)](https://www.linkedin.com/in/shemanto/)
+[![](https://github.com/izam-mohammed/izam-mohammed/blob/feature/github-contribution-grid-snake.svg)](https://www.linkedin.com/in/izammohammed/)
