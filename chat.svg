@@ -255,9 +255,9 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="355" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="350" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Tech and Business Enthusiast ✨</text>
-    <text x="15" y="50">Work with WebDev, Machine Learning and IoT</text>
+    <text x="15" y="50">Work with WebDev, Machine Learning, IoT</text>
   </g>
 
   <!-- typing 3 -->
