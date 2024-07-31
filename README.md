@@ -1,7 +1,7 @@
 [![](https://github.com/shemanto27/shemanto27/blob/main/chat.svg)](https://www.linkedin.com/in/shemanto/)
 
 [![](https://github.com/shemanto27/shemanto27/blob/main/github-contribution-grid-snake.svg)](https://www.linkedin.com/in/shemanto/)
-![Click: Project Done Badge to see my projects]([URL_TO_YOUR_SVG](https://github.com/shemanto27/shemanto27/blob/main/animated_text.svg))
+![Click: Project Done Badge to see my projects](https://github.com/shemanto27/shemanto27/blob/main/animated_text.svg)
 ## Programming Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/search?q=language:python+user:shemanto27&type=repositories)
 
