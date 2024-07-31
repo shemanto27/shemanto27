@@ -11,7 +11,7 @@
     .text {
       fill: #333333;
       font-size: 18px;
-      font-family: 'Roboto', sans-serif;
+      font-family: Arial, sans-serif;
       letter-spacing: -0.02em;
     }
 
@@ -24,13 +24,6 @@
       50% { opacity: 1; }
       100% { opacity: 0; }
     }
-
-    @font-face {
-      font-family: 'Roboto';
-      font-style: normal;
-      font-weight: 400;
-      src: url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap') format('woff2');
-    }
   </style>
 
   <!-- Bubble background -->
@@ -38,11 +31,11 @@
   
   <!-- Icon -->
   <circle cx="40" cy="80" r="20" class="icon">
-    <path d="M34 68 L46 80 L34 92 Z" fill="#ff0000" />
+    <path d="M30 70 L50 90 L30 110 Z" fill="#ff0000" />
   </circle>
 
   <!-- Text -->
-  <text x="80" y="60" class="text fade-in-out">
+  <text x="80" y="80" class="text fade-in-out">
     Click the "Project Done Badge" to see my projects
   </text>
 </svg>
