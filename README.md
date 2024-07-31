@@ -2,19 +2,21 @@
 
 [![](https://github.com/shemanto27/shemanto27/blob/main/github-contribution-grid-snake.svg)](https://www.linkedin.com/in/shemanto/)
 
+# My Project
+
 ## Projects
 
 ### Project 1: Web Scraper
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/search?q=topic:web-scraper+language:python)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/search?q=topic:web-scraper+language:python+user:YOUR_USERNAME)
 
 ### Project 2: Personal Website
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/search?q=topic:personal-website+language:html)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/search?q=topic:personal-website+language:css)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/search?q=topic:personal-website+language:html+user:YOUR_USERNAME)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/search?q=topic:personal-website+language:css+user:YOUR_USERNAME)
 
 ### Project 3: AI Model
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/search?q=topic:ai-model+language:python+pandas)
-[![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/search?q=topic:ai-model+language:python+numpy)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/search?q=topic:ai-model+language:python+scikit-learn)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/search?q=topic:ai-model+language:python+pandas+user:YOUR_USERNAME)
+[![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/search?q=topic:ai-model+language:python+numpy+user:YOUR_USERNAME)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/search?q=topic:ai-model+language:python+scikit-learn+user:YOUR_USERNAME)
 
 
 ## Programming Languages
