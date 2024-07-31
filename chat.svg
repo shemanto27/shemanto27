@@ -232,7 +232,7 @@
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="300" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi<img src="hello.gif" width="28px" alt="hi">, I'm Bidut Sharkar Shemanto</text>
+    <text x="15" y="27">Hi👋, I'm Bidut Sharkar Shemanto</text>
   </g>
 
   <!-- typing 2 -->
@@ -256,7 +256,7 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="360" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">From <img src="bangladesh.png" width="18"/>Bangladesh</text>
+    <text x="15" y="27">From &#x1f1e7;&#x1f1e9;Bangladesh</text>
     <text x="15" y="50">Work with Web Development and AI</text>
   </g>
 
