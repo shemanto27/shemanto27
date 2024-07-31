@@ -280,7 +280,7 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="385" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Fall in love with Data ❤️</text>    
     <text x="15" y="50">Trying to write code that can help businesses</text>
   </g>
