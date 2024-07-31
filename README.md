@@ -7,7 +7,7 @@
 ## Projects
 
 ### Project 1: Web Scraper
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/search?q=topic:web-scraper+language:python+user:YOUR_USERNAME)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/search?q=topic:web-scraper+language:python+user:shemanto27)
 
 ### Project 2: Personal Website
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/search?q=topic:personal-website+language:html+user:YOUR_USERNAME)
