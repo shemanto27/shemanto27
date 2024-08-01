@@ -21,3 +21,4 @@
 [![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)](https://github.com/search?q=language:python+user:shemanto27&type=repositories)
 [![Micropython](https://img.shields.io/badge/Micropython-2C2C2C?style=for-the-badge&logo=micropython&logoColor=white)](https://github.com/search?q=language:python+user:shemanto27&type=repositories)
 
+![Bangladesh’s Largest Developer Community in LinkedIn](https://github.com/user-attachments/assets/deb32f9e-982e-4c9a-aed1-32e16f124832)
