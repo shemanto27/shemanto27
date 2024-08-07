@@ -8,19 +8,20 @@
 ## Programming Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/search?q=language:python+user:shemanto27&type=repositories)
 
-<details>
-<summary>All My Python Projects</summary>
-  
-```
-CODE!
-```
-</details>
-
 ## Web Development
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/search?q=topic:flask+user:shemanto27&type=repositories)[![Projects](https://img.shields.io/badge/Completed%20Project-3-brightgreen?style=for-the-badge)](https://github.com/search?q=topic:flask+user:shemanto27&type=repositories)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<details>
+<summary>All My Flask Projects</summary>
+  
+```
+- <a href='https://github.com/shemanto27/Flask-URL_Shortener_and_Management_App' targer='_blank'>URL Shortener And Management Tool</a>
+```
+</details>
+
 
 ## Artificial Intelligence
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
