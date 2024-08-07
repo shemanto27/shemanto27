@@ -10,6 +10,7 @@
 
 <details>
 <summary>All My Python Projects</summary>
+  
 ```
 CODE!
 ```
