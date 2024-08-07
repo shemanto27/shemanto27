@@ -15,11 +15,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <details>
-  <summary style="font-family: Arial, sans-serif; color: #0079ff;">All My Flask Projects</summary>
+  <summary>All My Flask Projects</summary>
 
-  - <a href='https://github.com/shemanto27/Flask-URL_Shortener_and_Management_App' target='_blank' style="font-family: Arial, sans-serif; color: #ff5733;">URL Shortener,QR Code Generator And Management Tool</a>
-  - <a href='https://github.com/shemanto27/Python-Flask_Code_Snippets_Generator' target='_blank' style="font-family: Arial, sans-serif; color: #ff5733;">Code Snippets Generator</a>
-  - <a href='https://github.com/shemanto27/Flask-Social_Media_Website' target='_blank' style="font-family: Arial, sans-serif; color: #ff5733;">Social Media Website</a>
+  - <a href='https://github.com/shemanto27/Flask-URL_Shortener_and_Management_App' target='_blank'>URL Shortener,QR Code Generator And Management Tool</a>
+  - <a href='https://github.com/shemanto27/Python-Flask_Code_Snippets_Generator' target='_blank'>Code Snippets Generator</a>
+  - <a href='https://github.com/shemanto27/Flask-Social_Media_Website' target='_blank'>Social Media Website</a>
 
 </details>
 
@@ -36,7 +36,7 @@
 [![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)](https://github.com/search?q=language:python+user:shemanto27&type=repositories)
 [![Micropython](https://img.shields.io/badge/Micropython-2C2C2C?style=for-the-badge&logo=micropython&logoColor=white)](https://github.com/search?q=language:python+user:shemanto27&type=repositories)
 <details>
-  <summary style="font-family: Arial, sans-serif; color: #0079ff;">All My Hardware Projects</summary>
+  <summary>All My Hardware Projects</summary>
 
   - <a href='https://wokwi.com/makers/shemanto' target='_blank' style="font-family: Arial, sans-serif; color: #ff5733;">WokWi Simulations Projects</a>
 
