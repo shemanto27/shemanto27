@@ -15,12 +15,12 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <details>
-<summary>All My Flask Projects</summary>
-  
-```
-- <a href='https://github.com/shemanto27/Flask-URL_Shortener_and_Management_App' targer='_blank'>URL Shortener And Management Tool</a>
-```
+  <summary>All My Flask Projects</summary>
+
+  - <a href='https://github.com/shemanto27/Flask-URL_Shortener_and_Management_App' target='_blank'>URL Shortener And Management Tool</a>
+
 </details>
+
 
 
 ## Artificial Intelligence
