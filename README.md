@@ -61,6 +61,8 @@
   - <a href='https://wokwi.com/makers/shemanto' target='_blank' style="font-family: Arial, sans-serif; color: #ff5733;">WokWi Simulations Projects</a>
 
 </details>
-[![](https://visitcount.itsvg.in/api?id=shemanto27&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
+![visitor](https://visitcount.itsvg.in/api?id=shemanto27&label=Profile%20Views&color=0&icon=0&pretty=false)
+
 ![Checkout my Projects](https://github.com/user-attachments/assets/24348e83-9164-475f-977c-04ff0ac384e4)
 
