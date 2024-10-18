@@ -62,7 +62,17 @@
 
 </details>
 
-![visitor](https://visitcount.itsvg.in/api?id=shemanto27&label=Profile%20Views&color=0&icon=0&pretty=false)
+<h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Activity Stats</h2>
+
+<p align="start">
+    
+<a href="https://github.com/shemanto27/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=shemanto27">
+</a>
+   
+</p>
+
+![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shemanto27&theme=github_dark)
 
 ![Checkout my Projects](https://github.com/user-attachments/assets/24348e83-9164-475f-977c-04ff0ac384e4)
 
