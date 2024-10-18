@@ -62,7 +62,5 @@
 
 </details>
 
-![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shemanto27&theme=github_dark)
-
 ![Checkout my Projects](https://github.com/user-attachments/assets/24348e83-9164-475f-977c-04ff0ac384e4)
 
