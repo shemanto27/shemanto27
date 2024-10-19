@@ -64,3 +64,11 @@
 
 ![Checkout my Projects](https://github.com/user-attachments/assets/24348e83-9164-475f-977c-04ff0ac384e4)
 
+<h2 align="center">Repos You cann't Miss!</h2>
+<div align='center'>
+
+<div width="100%" align="center"><a href="https://github.com/shelar1423/EARTH-3050" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shemanto27&repo=React-Learning-Projects&title_color=ec4899&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a>
+
+<div width="100%" align="center"><a href="https://github.com/shelar1423/EARTH-3050" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shemanto27&repo=JavaScript-30-Beginners-Project&title_color=ec4899&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a>
+
+</div>
