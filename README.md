@@ -32,7 +32,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
 <details>
-  <summary style="color:red">All My Flask Projects</summary>
+  <summary>All My Flask Projects</summary>
 
   - <a href='https://github.com/shemanto27/Flask-URL_Shortener_and_Management_App' target='_blank'>URL Shortener,QR Code Generator And Management Tool</a>
   - <a href='https://github.com/shemanto27/Python-Flask_Code_Snippets_Generator' target='_blank'>Code Snippets Generator</a>
@@ -65,8 +65,8 @@
 <h2 align="center">Repos You cann't Miss!</h2>
 <div align='center'>
 
-<div width="100%" align="center"><a href="https://github.com/shelar1423/EARTH-3050" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shemanto27&repo=React-Learning-Projects&title_color=ec4899&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<div width="100%" align="center"><a href="https://github.com/shemanto27/React-Learning-Projects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shemanto27&repo=React-Learning-Projects&title_color=ec4899&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
-<div width="100%" align="center"><a href="https://github.com/shelar1423/EARTH-3050" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shemanto27&repo=JavaScript-30-Beginners-Project&title_color=ec4899&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<div width="100%" align="center"><a href="https://github.com/shemanto27/JavaScript-30-Beginners-Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shemanto27&repo=JavaScript-30-Beginners-Project&title_color=ec4899&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
 </div>
