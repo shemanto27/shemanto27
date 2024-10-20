@@ -32,7 +32,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
 <details>
-  <summary>All My Flask Projects</summary>
+  <summary style="color:red">All My Flask Projects</summary>
 
   - <a href='https://github.com/shemanto27/Flask-URL_Shortener_and_Management_App' target='_blank'>URL Shortener,QR Code Generator And Management Tool</a>
   - <a href='https://github.com/shemanto27/Python-Flask_Code_Snippets_Generator' target='_blank'>Code Snippets Generator</a>
