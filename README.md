@@ -60,6 +60,10 @@
 
 </details>
 
+<div>
+<h2>Click to read my journal: <a href='https://docs.google.com/document/d/10YDa1lnarpHhi0uknZ-DBDX-qqmpCXWdjy5Bw5SuW24/edit?usp=sharing' target='_blank' style="font-family: Arial, sans-serif; color: #ff5733;"> Echoes of My Mind ✍ </a> </h2>
+</div>
+
 ![Checkout my Projects](https://github.com/user-attachments/assets/24348e83-9164-475f-977c-04ff0ac384e4)
 
 <h2 align="center">Repos You cann't Miss!</h2>
@@ -70,6 +74,4 @@
 <div width="100%" align="center"><a href="https://github.com/shemanto27/JavaScript-30-Beginners-Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shemanto27&repo=JavaScript-30-Beginners-Project&title_color=ec4899&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
 </div>
-<div>
-<h2 align="center">Click to read my journal: <a href='https://docs.google.com/document/d/10YDa1lnarpHhi0uknZ-DBDX-qqmpCXWdjy5Bw5SuW24/edit?usp=sharing' target='_blank' style="font-family: Arial, sans-serif; color: #ff5733;"> Echoes of My Mind ✍ </a> </h2>
-</div>
+
