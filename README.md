@@ -84,7 +84,7 @@
 
 <div width="100%" align="center"><a href="https://github.com/shemanto27/Web-and-AI-Cheat-Sheet" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shemanto27&repo=Web-and-AI-Cheat-Sheet&title_color=ec4899&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
-<div width="100%" align="center"><a href="https://github.com/shemanto27/AI-Agent-Experiments" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shemanto27&repo=AI-Agent-Experiments&title_color=ec4899&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<div width="100%" align="center"><a href="https://github.com/shemanto27/EDA-Helper-Function" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shemanto27&repo=EDA-Helper-Function&title_color=ec4899&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
 </div>
 
