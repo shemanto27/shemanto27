@@ -257,7 +257,7 @@
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="370" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">From Bangladesh</text>
-    <text x="15" y="50">Work with Full-Stack Machine Learning</text>
+    <text x="15" y="50">Work with AI and Web Applications</text>
   </g>
 
   <!-- typing 3 -->
@@ -282,7 +282,7 @@
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="400" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Finishing undergrad @KUET</text>    
-    <text x="15" y="50">Looking for junior level ML Engineer role</text>
+    <text x="15" y="50">Looking for junior software engineering role</text>
   </g>
 
   <!-- typing 4 -->
