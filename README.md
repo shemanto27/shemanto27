@@ -4,9 +4,6 @@
 
 [![My Tech Skills](https://github.com/user-attachments/assets/1064363e-3f0c-4bc4-bf56-084584ac0095)](https://www.linkedin.com/in/shemanto/)
 
-![hardware](https://github.com/user-attachments/assets/203b08e1-50e1-433f-8aaa-4df21ccde0e1)
-
-
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
@@ -45,9 +42,9 @@
 **Cloud Services**  
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white) 
+[![My Tech Skills](https://github.com/user-attachments/assets/203b08e1-50e1-433f-8aaa-4df21ccde0e1)](https://www.linkedin.com/in/shemanto/)
 
-
-![Checkout my Projects](https://github.com/user-attachments/assets/24348e83-9164-475f-977c-04ff0ac384e4)
+[![Hardware](https://github.com/user-attachments/assets/24348e83-9164-475f-977c-04ff0ac384e4)](https://wokwi.com/makers/shemanto27)
 
 <h2 align="center">Repos You cann't Miss!</h2>
 <div align='center'>
