@@ -45,12 +45,79 @@
 [![My Tech Skills](https://github.com/user-attachments/assets/24348e83-9164-475f-977c-04ff0ac384e4)](https://www.linkedin.com/in/shemanto/)
 
 
-<h2 align="center">Repos You cann't Miss!</h2>
+<h2 align="center">Projects in my Portfolio!</h2>
 <div align='center'>
 
-<div width="100%" align="center"><a href="https://github.com/shemanto27/Web-and-AI-Cheat-Sheet" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shemanto27&repo=Web-and-AI-Cheat-Sheet&title_color=ec4899&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a>
+***
+# Python/Django + React - Full Stack Projects
 
-<div width="100%" align="center"><a href="https://github.com/shemanto27/eda-helper-py" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shemanto27&repo=eda-helper-py&title_color=ec4899&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a>
+| Project Link | Completion Date | Tools | Project Description | 
+|---|---|---|---|
+| ⚡ [End-to-End Energy Forecasting ML System: MLOps Implementation and Deployment](https://github.com/Mabrar92/ML-Energy-Forecasting) | Jul 2024 - | Python, W&B, Hopswork (feature Store), Streamlit, Airflow, GitHub Actions  | I'm building an end-to-end energy forecasting ML system that applies MLOps best practices—designing batch-serving architecture, implementing feature engineering with|
+
+***
+
+
+***
+# MERN Full Stack Projects
+
+| Project Link | Completion Date | Tools | Project Description | 
+|---|---|---|---|
+| ✈️ [Data Analysis of British Airways Customers Data](https://github.com/Mabrar92/Data-Analysis-of-British-Airways#readme) | May 2024 | Python | This analysis aims to understand the factors influencing customer satisfaction at British Airways, including popular routes, holiday seasons, and overall customer experiences.|
+| 🤑 [Data Analysis of Customer Buying Habits at CardioGood Fitness](https://github.com/Mabrar92/Customers_Profile_Analysis#readme) | Sep 2023 | SPSS | As a marketing enthusiast, I explored customer data of CardioGood Fitness Company and discovered trends in the buying behavior and characteristics of customers. I then presented my actionable insights and recommendations to the marketing team which can lead to business success.|
+
+***
+
+
+***
+# PERN Full Stack Projects
+| Project Link | Completion Date | Tools | Project Description | 
+|---|---|---|---|
+| 📈 [Datacamp's Data Analysis in Excel](https://github.com/Mabrar92/Data-Analysis-in-Excel.git) | Sep 2023 | Microsoft Excel | Acquired valuable techniques such as EDA with pivot tables, Advanced Logical functions, What if Analysis and Forecasting to make informed decisions and uncover hidden insights within data. |
+| 🏠 [House Prices in California](https://github.com/Mabrar92/Data-Analysis-Projects-Portfolio) | May 2023 | Microsoft Excel | I performed Data Analysis of House Prices in California from 1990 to find a correlation of prices with various variables along with a dashboard and presented key insights. This public dataset is taken from Kaggle.|
+
+
+
+***
+
+# Golang Projects
+
+| Project Link | Area | Project Description | Libraries |    
+|---|---|---|---|
+| ✈️ [Data Analysis of British Airways Customers Data](https://github.com/Mabrar92/Data-Analysis-of-British-Airways#readme) | EDA & Hypothesis Testing | This analysis aims to understand the factors influencing customer satisfaction at British Airways, including popular routes, holiday seasons, and overall customer experiences.|Pandas, Matplotlib, Seaborn|
+ 
+
+
+***
+
+# Machine Learning & Deep Learning Projects
+
+| Project Link | Area of Analysis | Project Description | 
+|---|---|---|
+| 💻 [Advanced SQL](https://www.kaggle.com/learn/advanced-sql) | SQL queries for Complex Big Query datasets | Developed SQL queries for Google BigQuery datasets to support real-world data problems |
+
+
+***
+
+# Generative AI, LangChain, LangGraph Projects
+| Project Link | Completion Date | Project Description | 
+|---|---|---|
+|🤑 [Data Analysis of Customer Buying Habits at CardioGood Fitness](https://github.com/Mabrar92/Customers_Profile_Analysis#readme)|Sep 2023| As a marketing enthusiast, I explored customer data of CardioGood Fitness Company and discovered trends in the buying behaviour and characteristics of customers. I then presented my actional insights and recommendations to the marketing team which can lead to business success.|
+
+
+***
+
+# BlockChain Projects
+
+| Project Link | Project Description | Dashboard Link |
+|---|---|---|
+|Human Resource Dashboard|This HR Dashboard provides in-depth insights into key human resource metrics, including employee demographics, salary analysis, and performance evaluations.|[Tableau Dashboard](https://public.tableau.com/app/profile/mabrar92/viz/HumanResourceDashboard_17268433594040/HRSummary)|
+|Sales & Customer Dashboards|A comprehensive Tableau dashboard providing detailed insights into sales performance and customer analysis.|[Tableau Dashboard](https://public.tableau.com/app/profile/mabrar92/viz/SalesCustomerDashboards_17279633259680/SalesDashboard)|
+
+
+***
+
+
 
 </div>
 
