@@ -44,7 +44,6 @@
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white) 
 [![My Tech Skills](https://github.com/user-attachments/assets/203b08e1-50e1-433f-8aaa-4df21ccde0e1)](https://www.linkedin.com/in/shemanto/)
 
-[![Hardware](https://github.com/user-attachments/assets/24348e83-9164-475f-977c-04ff0ac384e4)](https://wokwi.com/makers/shemanto27)
 
 <h2 align="center">Repos You cann't Miss!</h2>
 <div align='center'>
