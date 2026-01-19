@@ -1,0 +1,486 @@
+\documentclass[letterpaper,10pt]{article}
+%%%%%%%%%%%%%%%%%%%%%%%
+% Original template from Michael Lustfield (MTecknology's Resume)
+% Redesigned by Bidut Sharkar Shemanto(KUET, ESE19)
+% LinkedIn Link: https://linkedin.com/in/shemanto/
+% GitHub: https://github.com/shemanto27
+% Resume is Open Sourced! You can use it for your next job! Completely ATS Optimized
+% This resume is recommended for programmers or developers
+
+
+% Dependencies
+% NOTE: Some packages (lastpage, hyperref) require second build!
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage{fontawesome5}
+\usepackage{multicol}
+\usepackage{bookmark}
+\usepackage{lastpage}
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage{eso-pic} % Allows adding objects to the page background/foreground
+\usepackage{calc} % For calculating lengths
+\usepackage{tabularx}
+\let\hrefWithoutArrow\href
+
+% CV Updated Date
+\newcommand{\placelastupdatedtext}{%
+  \AddToShipoutPictureFG*{% Add content to the foreground of the page
+    \put(
+      \LenToUnit{\paperwidth-2.5 cm}, % Horizontal position (adjust as needed)
+      \LenToUnit{\paperheight 1.8 cm} % Vertical position (adjust as needed)
+    ){\vtop{{\null}\makebox[0pt][c]{%
+      \small\color{gray}\textit{Last updated on January 2026}% Replace this with your date
+    }}}%
+  }%
+}%
+
+
+
+% New command for external links with an arrow symbol:
+\newcommand{\hrefWithArrow}[2]{\hrefWithoutArrow{#1}{#2\ \raisebox{.15ex}{\footnotesize \faExternalLink*}}}
+
+\usepackage{hyperref} % Load hyperref for creating links
+
+
+% Sans-Serif
+%\usepackage[sfdefault]{FiraSans}
+%\usepackage[sfdefault]{roboto}
+%\usepackage[sfdefault]{noto-sans}
+%\usepackage[default]{sourcesanspro}
+
+% Serif
+\usepackage{CormorantGaramond}
+\usepackage{charter}
+
+% Colors
+% Use with \color{Name}
+% Can wrap entire heading with {\color{accent} [...] }
+\usepackage{xcolor}
+\definecolor{accentTitle}{HTML}{0e6e55}
+\definecolor{accentText}{HTML}{0e6e55}
+\definecolor{accentLine}{HTML}{a16f0b}
+
+% Misc. Options
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\urlstyle{same}
+
+% Adjust Margins
+\addtolength{\oddsidemargin}{-0.7in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1.19in}
+\addtolength{\topmargin}{-0.7in}
+\addtolength{\textheight}{1.4in}
+
+\setlength{\multicolsep}{-3.0pt}
+\setlength{\columnsep}{-1pt}
+\setlength{\tabcolsep}{0pt}
+\setlength{\footskip}{3.7pt}
+\raggedbottom
+\raggedright
+
+% ATS Readability
+\input{glyphtounicode}
+\pdfgentounicode=1
+
+%-----------------%
+% Custom Commands %
+%-----------------%
+
+% Centered title along with subtitle between HR
+% Usage: \documentTitle{Name}{Details}
+\newcommand{\documentTitle}[2]{
+  \begin{center}
+    {\Huge\color{accentTitle} #1}
+    \vspace{10pt}
+    {\color{accentLine} \hrule}
+    \vspace{2pt}
+    %{\footnotesize\color{accentTitle} #2}
+    \footnotesize{#2}
+    \vspace{2pt}
+    {\color{accentLine} \hrule}
+  \end{center}
+}
+
+% Create a footer with correct padding
+% Usage: \documentFooter{\thepage of X}
+\newcommand{\documentFooter}[1]{
+  \setlength{\footskip}{10.25pt}
+  \fancyfoot[C]{\footnotesize #1}
+}
+
+% Simple wrapper to set up page numbering
+% Usage: \numberedPages
+% WARNING: Must run pdflatex twice!
+\newcommand{\numberedPages}{
+  \documentFooter{\thepage/\pageref{LastPage}}
+}
+
+% Section heading with horizontal rule
+% Usage: \section{Title}
+\titleformat{\section}{
+  \vspace{-5pt}
+  \color{accentText}
+  \raggedright\large\bfseries
+}{}{0em}{}[\color{accentLine}\titlerule]
+
+% Section heading with separator and content on same line
+% Usage: \tinysection{Title}
+\newcommand{\tinysection}[1]{
+  \phantomsection
+  \addcontentsline{toc}{section}{#1}
+  {\large{\bfseries\color{accentText}#1} {\color{accentLine} |}}
+}
+
+% Indented line with arguments left/right aligned in document
+% Usage: \heading{Left}{Right}
+\newcommand{\heading}[2]{
+  \hspace{10pt}#1\hfill#2\\
+}
+
+% Adds \textbf to \heading
+\newcommand{\headingBf}[2]{
+  \heading{\textbf{#1}}{\textbf{#2}}
+}
+
+% Adds \textit to \heading
+\newcommand{\headingIt}[2]{
+  \heading{\textit{#1}}{\textit{#2}}
+}
+
+% Template for itemized lists
+% Usage: \begin{resume_list} [items] \end{resume_list}
+\newenvironment{resume_list}{
+  \vspace{-7pt}
+  \begin{itemize}[itemsep=-2px, parsep=1pt, leftmargin=30pt]
+}{
+  \end{itemize}
+  %\vspace{-2pt}
+}
+
+% Formats an item to use as an itemized title
+% Usage: \itemTitle{Title}
+\newcommand{\itemTitle}[1]{
+  \item[] \underline{#1}\vspace{4pt}
+}
+
+% Bullets used in itemized lists
+\renewcommand\labelitemi{--}
+
+%% END_FILE: mteck.sty
+%%%%%%%%%%%%%%%%%%%%%%
+
+
+%===================%
+% Bidut Sharkar Shemanto's Resume %
+%===================%
+
+%\numberedPages % NOTE: lastpage requires a second build
+%\documentFooter{\thepage of 2} % Does similar without using lastpage
+\begin{document}
+% Last Updated text
+\placelastupdatedtext
+
+
+
+
+
+
+
+  %---------%
+  % Heading %
+  %---------%
+% Your Name Here
+\documentTitle{Bidut Sharkar \textbf{Shemanto} \\
+{\large \textit{Software Engineer | Backend Systems \& AI Integration}}}{
+    
+    {\normalsize
+    \href{tel: +8801521721778}{
+      \raisebox{-0.05\height} \faPhone\ +8801521721778} ~ | ~
+    \href{mailto:shemantosharkarofficial@gmail.com}{
+      \raisebox{-0.15\height} \faEnvelope\ shemantosharkarofficial@gmail.com} ~ | ~
+    \href{https://linkedin.com/in/shemanto/}{
+      \raisebox{-0.15\height} \faLinkedin\ /in/shemanto/} ~ | ~
+    \href{https://github.com/shemanto27}{
+      \raisebox{-0.15\height} \faGithub\ /shemanto27}
+
+       
+      
+      }
+}
+
+
+
+
+
+
+  %---------%
+  % Summary %
+  %---------%
+
+\tinysection{Summary}  \textbf{Backend-focused Full-Stack Developer} with experience in \textbf{Express.js, Django, and React.js}. Skilled in building and deploying \textbf{end-to-end web applications} with clean APIs, responsive UIs, and cloud deployment using \textbf{AWS, Docker, and GitHub Actions}.
+
+%-----------%
+  % Education %
+  %-----------%
+
+  \section{Education and Certifications}
+
+  \headingBf{Khulna University of Engineering and Technology (KUET)}{2020 -- 2025}
+  \headingIt{B.Sc. Eng. in Energy Science and Engineering}{}
+  % \headingIt{Courses:}{}
+
+  \vspace{5pt}
+  \textcolor[HTML]{336e55}{\headingBf{Certifications}{}}
+  \begin{resume_list}
+    \item Data Science Certifications (from Ostad Platform) - Python, Machine Learning, Data Analysis, SQL
+    \item Web Development (from Programming Hero Platform) - HTML, CSS, JavaScript, React.js, Express.js, MongoDB
+    \item 90-Hour Machine Learning with Python Training (from ICT Division under EDGE Program at KUET)
+  \end{resume_list}
+
+
+
+  %--------%
+  % Skills and Tools %
+  %--------%
+
+\section{Skills and Tools}
+\begin{tabularx}{\textwidth}{@{\hspace{10pt}}X @{\hspace{20pt}}X}
+  \textbf{Languages:}  Python, JavaScript/TypeScript, Go\\
+  \textbf{Frontend:}  React.js, HTML, CSS, Tailwind CSS \\
+  \textbf{Backend:}  Django, Node.js, Express.js, Drizzle ORM, Redis, Celery, Websocket, PostgreSQL, MongoDB \\
+  \textbf{Machine Learning \& AI:} Pandas, NumPy, Scikit-learn, PyTorch, LangChain, Vector Databases\\
+  \textbf{DevOps \& Cloud:}  Git, AWS, Linux (Ubuntu), Nginx, Docker, CI/CD (Github Action) \\
+\end{tabularx}
+
+
+
+  %------------%
+  % Experience %
+  %------------%
+
+  \section{Experience}
+  
+% Experience-1
+  \headingBf{Sparktech Agency}{Aug 2025 -- Present}
+  \headingIt{Python Developer}{}
+  \begin{resume_list}
+    \item \textbf{worked in AI team as Backend Developer}, created API for both Web and Mobile App (Flutter), integrated AI
+    \item \textbf{worked in 4+ projects}, handled International clients, helped my team leader to manage day-to-day team management works- requirements check, communicated with sales team to acquire new clients, budget negotiation, quotation making
+  \end{resume_list}
+  
+
+  % Experience-2
+  \headingBf{Bigganpur Technologies}{Apr 2022 -- Nov 2023}
+  \headingIt{Co-founder (self-employed)}{}
+  \begin{resume_list}
+    \item Sold electronics components (microcontrollers, sensors, actuators, etc.) to university students, \textbf{generated 3+ lakh revenue} in 2 years.
+    \item Conducted \textbf{15+ paid workshops} on electronics and programming in the KUET area.
+    \item \textbf{Supplied lab equipment} to KUET's FABLAB under the ECE department.
+  \end{resume_list}
+
+
+
+
+  %----------------------------%
+  % Projects Section %
+  %----------------------------%
+\section{Projects}
+
+% Project - 1 
+\headingBf{Full Stack University Management System Using PERN Stack \textit{(*Personal Project)}}{\textcolor[HTML]{336e55}{\hrefWithArrow{https://github.com/shemanto27/Full-Stack-Classroom-Management-System-Using-PERN-Stack}{\textbullet{Project Link}}}}
+
+\headingIt{PostgreSQL, Express.js, React.js, Node.js, Docker, TypeScript, Drizzle ORM, Tailwind CSS}{}
+\begin{resume_list}
+    \item Developed a production-grade full-stack classroom management dashboard featuring \textbf{multi-role authentication}, \textbf{real-time analytics}, and dynamic class enrollment with secure join codes
+    \item  \textbf{integrated Cloudinary} for AI-powered asset management and CDN delivery, and deployed advanced monitoring with \textbf{Site24x7} for performance insights
+\end{resume_list}
+
+% Project - 2 
+\headingBf{MenuSideKick - AI powered Flutter App for Scanning Restaurant Menu \textit{(*Company Project)}}{\textcolor[HTML]{336e55}{\hrefWithArrow{https://github.com/shemanto27/Menu-Sidekick-STA}{\textbullet{Project Link}}}}
+
+\headingIt{Flutter Mobile App, Django REST, AWS RDS, AWS Textract OCR, AI ChatBot(OpenAI
+) Docker, AWS, GitHub Actions}{}
+\begin{resume_list}
+    \item Collaborated closely with the Flutter team and AI team to build an AI-powered restaurant menu-scanning app, ensuring smooth communication between mobile, backend, and AI components.
+    \item Integrated the AI team’s \textbf{OCR and chatbot} modules into the Django backend, enabling automated menu extraction and conversational food-recommendation features.
+    \item Containerized the backend using Docker and deployed it with Nginx on AWS EC2; implemented CI/CD pipelines with GitHub Actions for automated builds and deployments.
+\end{resume_list}
+
+% Project - 3 
+\headingBf{Mon5Monjeur - NBR Fantacy Game \textit{(*Company Project)}}{\textcolor[HTML]{336e55}{\hrefWithArrow{https://github.com/FahadOSD/MON5MAJEUR}{\textbullet{Project Link}}}}
+
+\headingIt{Flutter App, React.js, Django REST Framework, Websocket}{}
+\begin{resume_list}
+    \item Worked closely with the Flutter team to build a real-time fantasy gaming app, collaborating on gameplay flow, scoring logic, and API contracts.
+    \item Implemented complex game mechanics and leaderboard logic in Django REST Framework, integrating external sports APIs to deliver live player and match data.
+    \item Built WebSocket-based real-time communication for live matches, enabling instant score updates and in-game interactions between users.
+\end{resume_list}
+
+% Project - 4 
+\headingBf{GamePrice AI - AI Game Box Cover Analysis to Give Price \textit{(*Company Project)}}{\textcolor[HTML]{336e55}{\hrefWithArrow{https://github.com/shemanto27/GamePriceCheckerAI}{\textbullet{Project Link}}}}
+
+\headingIt{Next.js, Django, Docker, External API Integration, AI Integration}{}
+\begin{resume_list}
+    \item \textbf{Integrated the AI team’s model into the backend} to analyze game box cover images and estimate game prices using data pulled from the \textbf{PriceCharting external API}.
+    \item Developed and maintained Django-based REST APIs to handle image uploads, AI inference requests, and real-time price lookup workflows.
+    \item \textbf{Assisted the frontend developer in Dockerizing the Next.js application} and resolving deployment issues, ensuring the full-stack system could be deployed smoothly on AWS.
+\end{resume_list}
+
+% Project - 5 
+\headingBf{ScholarPage — Full-Stack Academic Portfolio Builder \textit{(*Personal Project)}}{\textcolor[HTML]{336e55}{\hrefWithArrow{https://github.com/shemanto27/ScholarPage}{\textbullet{Project Link}}}}
+
+\headingIt{React.js, Django REST, PostgreSQL (Neon), JWT Auth, TailwindCSS, Docker, AWS, GitHub Actions}{}
+\begin{resume_list}
+    \item Built a full-stack web application that enables researchers to create interactive academic portfolios, including education, publications, and research interests.
+    \item Developed secure REST APIs using Django and PostgreSQL; built a responsive frontend with React.js and Tailwind CSS.
+    \item Deployed on AWS EC2 using Docker; implemented JWT authentication and set up CI/CD with GitHub Actions.
+    \item Configured Nginx and Gunicorn to serve the backend in a production-ready setup on Ubuntu-based EC2 instances.
+\end{resume_list}
+
+% Project - 6
+\headingBf{PeoplesList — Member Directory Platform for Groups and Communities \textit{(*Personal Project)}}{\textcolor[HTML]{336e55}{\hrefWithArrow{https://github.com/shemanto27/PeoplesList}{\textbullet{Project Link}}}}
+
+\headingIt{Django REST Framework, PostgreSQL, React.js, Docker, AWS EC2, Nginx}{}
+\begin{resume_list}
+    \item Built a tool for managing member directories across groups (e.g., alumni, clubs) without requiring member sign-ups, Combining Google Form + Sheet in single page
+    \item Used just one link to add and view members, common password, and moderation options.
+    \item Utilized DRF and PostgreSQL for scalable API backend; deployed via Docker on AWS EC2 with Nginx.
+\end{resume_list}
+
+
+
+
+
+%-----------%
+% Publications
+%-----------%
+
+% \section{Publications}
+
+% \headingBf{Book Publishing}{}
+% \begin{resume_list}
+%   \item Authoring Bangla technology books focused on programming, web development, and AI/ML.
+%   \item Publishing accessible resources for non-CSE students and early-career developers.
+% \end{resume_list}
+
+
+% \headingBf{Paper Publishing}{}
+% \begin{resume_list}
+%   \item Founder of small-scale open-source software projects aimed at solving real-world problems.
+%   \item Building projects designed for early users, open collaboration, and contributor onboarding.
+% \end{resume_list}
+
+
+
+%-----------%
+  % Achievements %
+  %-----------%
+
+  \section{Achievements}
+    \vspace{5pt}
+    
+    \begin{resume_list}
+    \item \textbf{Champion in Inter-University Innovation Idea and Project Competition-2022} \textit{(Issued by FabLab KUET, Dec 2022)}
+    \item \textbf{3rd Place in All Bangladesh Asteroid Search Campaign} \textit{(Issued by NASA, Oct 2019)}
+    \item \textbf{Finalist in Nuclear Dilemma 6} \textit{(Issued by Information Center on Nuclear Energy, Apr 2023)}
+    \item \textbf{Finalist in AGRIBIZ, Agriculture-Based Inter-University Business Case Competition} \textit{(Issued by Sher-e-Bangla Agriculture University, Jan 2023)}
+    \item \textbf{4th Place in IEOM Society KUET Student Chapter's Innovative Idea Contest} \textit{(Issued by IEOM Society KUET Student Chapter, Jul 2022)}
+    \item \textbf{1st Runner-Up in BizBash 2.0} \textit{(Issued by KUET Career Club-KCC)}
+  \end{resume_list}
+
+
+
+    %-----------%
+    % Extracurricular Activities %
+    %-----------%
+
+ \section{Extracurricular Activities}
+
+  
+  \headingBf{KUET Business and Entrepreneurship Club}{Mar 2022 -- Sep 2023}
+  \headingIt{Senior Executive: Public Relations (PR) and Graphics Design}{}
+  \begin{resume_list}
+    \item Organized \textbf{TEDx KUET} as part of the graphics and content team.
+    \item Conducted the \textbf{CASE CRACK WORKSHOP 2022} as a Junior Executive.
+    \item Organized and managed the \textbf{HULT Prize at KUET}; conducted workshops on presentation skills, creating PowerPoint slides, and business idea showcasing.
+  \end{resume_list}
+
+
+
+  \headingBf{KRIoTIC (KUET Robotics and IoT Innovation Club)}{May 2022 -- Mar 2023}
+  \headingIt{General Member}{}
+  \begin{resume_list}
+    \item Organized and conducted workshops on \textbf{IoT and microcontrollers}.
+    \item Delivered a \textbf{speech on IoT at Khulna University to 200+ people}, raising awareness about IoT and frontier technologies.
+  \end{resume_list}
+
+
+
+
+  %-----------%
+  % References Section %
+  %-----------%
+  
+% \section*{References}
+% \hspace{5mm}
+% \begin{tabularx}{\textwidth}{X X}
+%     % Reference 1
+%     \begin{tabular}{@{}l@{}}
+%         \textbf{Dr. Md. Hasan Ali} \\
+%         Head \\
+%         Department of Energy Science and Engineering, KUET  \\
+%         \textbf{Email:} hasan@ese.kuet.ac.bd \\
+%         \textbf{Mobile:} +8801643763325 \\
+%         \textbf{Phone:} +88041769468-75 \\
+%     \end{tabular}
+%     &
+%     % Reference 2
+%     \begin{tabular}{@{}l@{}}
+%         \textbf{Md. Mahmodul Alam} \\
+%         Assistant Professor \\
+%         Department of Energy Science and Engineering, KUET \\
+%         \textbf{Email:} mahmod@ese.kuet.ac.bd \\
+%         \textbf{Mobile:} +8801682079985 \\
+%     \end{tabular}
+% \end{tabularx}
+
+
+
+  %-----------%
+  % References Section %
+  %-----------%
+  
+% \section*{References}
+% \hspace{5mm}
+% \begin{tabularx}{\textwidth}{X X}
+%     % Reference 1
+%     \begin{tabular}{@{}l@{}}
+%         \textbf{Dr. Md. Hasan Ali} \\
+%         Head \\
+%         Department of Energy Science and Engineering, KUET  \\
+%         \textbf{Email:} hasan@ese.kuet.ac.bd \\
+%         \textbf{Mobile:} +8801643763325 \\
+%         \textbf{Phone:} +88041769468-75 \\
+%     \end{tabular}
+%     &
+%     % Reference 2
+%     \begin{tabular}{@{}l@{}}
+%         \textbf{Md. Mahmodul Alam} \\
+%         Assistant Professor \\
+%         Department of Energy Science and Engineering, KUET \\
+%         \textbf{Email:} mahmod@ese.kuet.ac.bd \\
+%         \textbf{Mobile:} +8801682079985 \\
+%     \end{tabular}
+% \end{tabularx}
+
+
+
+\end{document}
