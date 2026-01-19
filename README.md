@@ -2,6 +2,14 @@
 
 [![](https://github.com/shemanto27/shemanto27/blob/main/github-contribution-grid-snake.svg)](https://www.linkedin.com/in/shemanto/)
 
+***
+## 📄 [Download My Updated Resume (click here)](https://github.com/shemanto27/shemanto27/raw/main/resume/Bidut_Sharkar_Shemanto_Backend_Developer_Resume.pdf)
+***
+
+
+
+
+
 [![My Tech Skills](https://github.com/user-attachments/assets/1064363e-3f0c-4bc4-bf56-084584ac0095)](https://www.linkedin.com/in/shemanto/)
 
 **Languages**  
