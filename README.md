@@ -49,70 +49,62 @@
 <div align='center'>
 
 ***
-# Python/Django + React - Full Stack Projects
+# Python/Django Projects
 
-| Project Link | Completion Date | Tools | Project Description | 
+| Project Link | Timeline | Tools | Project Description | 
 |---|---|---|---|
-| ⚡ [End-to-End Energy Forecasting ML System: MLOps Implementation and Deployment](https://github.com/Mabrar92/ML-Energy-Forecasting) | Jul 2024 - | Python, W&B, Hopswork (feature Store), Streamlit, Airflow, GitHub Actions  | I'm building an end-to-end energy forecasting ML system that applies MLOps best practices—designing batch-serving architecture, implementing feature engineering with|
+| [Game Price AI](https://github.com/shemanto27/GamePriceCheckerAI) | Oct 2025 - | Django REST Framework, Next.js, Docker, AWS, GitHub Actions  | User Scan Game cover using OCR, AI will compare the game with external game API and show prices and details of the game, shows price changes over time |
+| [Menu SideKick - AI Flutter App for Restaurant Menu Check](https://github.com/shemanto27/Menu-Sidekick-STA) | Oct 2025 - | Django REST Framework, Flutter, Docker, AWS, GitHub Actions, OPenAI  | User choose his health condition, allergies, preferred diet and deails when registering in the app. Later he scan menu in restaurants, AI assist which dishes best fit for him, which not |
+| [PeoplesList - Full Stack Django and React Web App Combines Goggle Sheet and Google Form in one Page](https://github.com/shemanto27/ScholarPage) | March 2025 - | Django REST Framework, React.js , Daisy UI, Tailwind CSS, Docker, AWS, GitHub Actions  | Managing your department, alumni, or club member list shouldn’t be a hassle.PeoplesList is a lightweight web app designed to simplify group member management with a single shared link. One link to:Create and share your group's member list, Allow members to view others and register themselves, Protect access with a shared password, Moderate new entries before they appear, View smart insights through graphs, Email all members instantly |
+| [ScholarPage – Portfolio builder for researchers and students](https://github.com/shemanto27/PeoplesList) | March 2025 - | Django REST Framework, React.js , Daisy UI, Tailwind CSS, Docker, AWS, GitHub Actions  | ScholarPage is a simple, customizable portfolio builder designed specifically for academics. It allows users to showcase their education, research work, publications, projects, and achievements without needing to code — all with a clean, professional UI. |
 
 ***
 
 
-***
-# MERN Full Stack Projects
 
-| Project Link | Completion Date | Tools | Project Description | 
+***
+# PERN & MERN Full Stack Projects
+| Project Link | Timeline | Tools | Project Description | 
 |---|---|---|---|
-| ✈️ [Data Analysis of British Airways Customers Data](https://github.com/Mabrar92/Data-Analysis-of-British-Airways#readme) | May 2024 | Python | This analysis aims to understand the factors influencing customer satisfaction at British Airways, including popular routes, holiday seasons, and overall customer experiences.|
-| 🤑 [Data Analysis of Customer Buying Habits at CardioGood Fitness](https://github.com/Mabrar92/Customers_Profile_Analysis#readme) | Sep 2023 | SPSS | As a marketing enthusiast, I explored customer data of CardioGood Fitness Company and discovered trends in the buying behavior and characteristics of customers. I then presented my actionable insights and recommendations to the marketing team which can lead to business success.|
-
-***
-
-
-***
-# PERN Full Stack Projects
-| Project Link | Completion Date | Tools | Project Description | 
-|---|---|---|---|
-| 📈 [Datacamp's Data Analysis in Excel](https://github.com/Mabrar92/Data-Analysis-in-Excel.git) | Sep 2023 | Microsoft Excel | Acquired valuable techniques such as EDA with pivot tables, Advanced Logical functions, What if Analysis and Forecasting to make informed decisions and uncover hidden insights within data. |
-| 🏠 [House Prices in California](https://github.com/Mabrar92/Data-Analysis-Projects-Portfolio) | May 2023 | Microsoft Excel | I performed Data Analysis of House Prices in California from 1990 to find a correlation of prices with various variables along with a dashboard and presented key insights. This public dataset is taken from Kaggle.|
+|  [Full Stack University Classroom Management Project using PERN Stack](https://github.com/shemanto27/Full-Stack-Classroom-Management-System-Using-PERN-Stack) | Feb 2026 | PostgreSQL, Express.js, React.js, Node.js, Docker | Acquired valuable techniques such as EDA with pivot tables, Advanced Logical functions, What if Analysis and Forecasting to make informed decisions and uncover hidden insights within data. |
 
 
 
-***
+
+<!-- ***
 
 # Golang Projects
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
 | ✈️ [Data Analysis of British Airways Customers Data](https://github.com/Mabrar92/Data-Analysis-of-British-Airways#readme) | EDA & Hypothesis Testing | This analysis aims to understand the factors influencing customer satisfaction at British Airways, including popular routes, holiday seasons, and overall customer experiences.|Pandas, Matplotlib, Seaborn|
+
  
 
 
-***
+*** -->
 
 # Machine Learning & Deep Learning Projects
 
-| Project Link | Area of Analysis | Project Description | 
-|---|---|---|
-| 💻 [Advanced SQL](https://www.kaggle.com/learn/advanced-sql) | SQL queries for Complex Big Query datasets | Developed SQL queries for Google BigQuery datasets to support real-world data problems |
-
+| Project Link | Timeline | Tools | Project Description | 
+|---|---|---| --- |
+| [BanglaFoodViT](https://github.com/shemanto27/BanglaFoodViT) | 2025 | Pytorch | Bangladeshi Food Classification using Vision Transformer. Built a Vision Transformer (ViT) from scratch using PyTorch |
+| [Credit Risk Modeling of Banking Data](https://github.com/shemanto27/Credit-Risk-Modeling-on-Bank-Data-using-Machine-Learning) | 2025 | ScikitLearn, XGBOOST | Develop a ML model that can accurately predict credit risk for loan applicants based on historical data and financial metrics |
 
 ***
 
 # Generative AI, LangChain, LangGraph Projects
-| Project Link | Completion Date | Project Description | 
-|---|---|---|
-|🤑 [Data Analysis of Customer Buying Habits at CardioGood Fitness](https://github.com/Mabrar92/Customers_Profile_Analysis#readme)|Sep 2023| As a marketing enthusiast, I explored customer data of CardioGood Fitness Company and discovered trends in the buying behaviour and characteristics of customers. I then presented my actional insights and recommendations to the marketing team which can lead to business success.|
+| Project Link | Timeline | Tools | Project Description | 
+|---|---|---| --- |
+| [Tax Assist - AI Bangladeshi Tax Expert using LangChain](https://github.com/shemanto27/TaxAssist)| 2026 | LangChain, Text Embedding, Vector Database | AI Tax helper |
 
 
 ***
 
 # BlockChain Projects
-
-| Project Link | Project Description | Dashboard Link |
-|---|---|---|
-|Human Resource Dashboard|This HR Dashboard provides in-depth insights into key human resource metrics, including employee demographics, salary analysis, and performance evaluations.|[Tableau Dashboard](https://public.tableau.com/app/profile/mabrar92/viz/HumanResourceDashboard_17268433594040/HRSummary)|
-|Sales & Customer Dashboards|A comprehensive Tableau dashboard providing detailed insights into sales performance and customer analysis.|[Tableau Dashboard](https://public.tableau.com/app/profile/mabrar92/viz/SalesCustomerDashboards_17279633259680/SalesDashboard)|
+| Project Link | Timeline | Tools | Project Description | 
+|---|---|---| --- |
+| [Voting DApp](https://github.com/shemanto27/Voting-DApp) | 2026 | Solidity, Etharium  | Voting DApp |
 
 
 ***
