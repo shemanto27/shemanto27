@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1768827750.90927 "/home/shimanto/projects/shemanto27/resume/Bidut_Sharkar_Shemanto_Backend_Developer_Resume.tex" "Bidut_Sharkar_Shemanto_Backend_Developer_Resume.pdf" "Bidut_Sharkar_Shemanto_Backend_Developer_Resume" 1768827751.75689 0
+["pdflatex"] 1768990784.91848 "/home/shimanto/projects/shemanto27/resume/Bidut_Sharkar_Shemanto_Backend_Developer_Resume.tex" "Bidut_Sharkar_Shemanto_Backend_Developer_Resume.pdf" "Bidut_Sharkar_Shemanto_Backend_Developer_Resume" 1768990785.75679 0
   "/etc/texmf/web2c/texmf.cnf" 1768823930.45739 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/shimanto/projects/shemanto27/resume/Bidut_Sharkar_Shemanto_Backend_Developer_Resume.tex" 1768827750.59046 17621 58c3bbff3f8d22ac9ff5594ad12fecb5 ""
+  "/home/shimanto/projects/shemanto27/resume/Bidut_Sharkar_Shemanto_Backend_Developer_Resume.tex" 1768990784.61585 16877 3c7169e8e0a52a6bdbc8c16afc1d06f5 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1622837620 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1622837620 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
@@ -16,6 +16,7 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/bitstrea/charter/bchr8r.tfm" 1136768653 4644 551129616ea4f62d8f0094a3db9a3f9d ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/bitstrea/charter/bchri7t.tfm" 1136768653 2568 58165f44b773491d02ba0f602dd480cb ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/bitstrea/charter/bchri8r.tfm" 1136768653 4976 cfc4dd38b8fb809ad0d6138823dff41a ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm" 1136768653 1116 4e6ba9d7914baa6482fd69f67d126380 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/fontawesome5/fa5brands0.tfm" 1651520503 1380 a61d7c2860b3f6d342213a6b9b229e9e ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1solid.tfm" 1622837620 1316 1c2ee668ea88be9bd4f39690662cc344 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/fontawesome5/fa5free2solid.tfm" 1622837620 1340 b21002f38a477f345fa9dc96a5613e2b ""
@@ -23,6 +24,7 @@
   "/usr/share/texlive/texmf-dist/fonts/type1/bitstrea/charter/bchbi8a.pfb" 1136849748 35229 7f969820a9c1085027a23beb06f6f457 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb" 1136849748 34869 539b6fed90ef630e9049bc13079bc598 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/bitstrea/charter/bchri8a.pfb" 1136849748 35118 12369bddf1a14581d11fcdbf86619250 ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb" 1248133631 34793 87a84b12f86dfd35a1cf1bb142b75602 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb" 1651520503 204258 177851ae99767090543ae24e73c92f2f ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb" 1651520503 295323 d099723373a00cc17d5ae0c9738bb5b3 ""
   "/usr/share/texlive/texmf-dist/fonts/vf/bitstrea/charter/bchb7t.vf" 1136768653 1372 e6cfde23c168b1d1864ce6aa6dffa18b ""
@@ -99,6 +101,7 @@
   "/usr/share/texlive/texmf-dist/tex/latex/mweights/mweights.sty" 1490909540 4953 67f29a12ea26221103fce6bae3433e60 ""
   "/usr/share/texlive/texmf-dist/tex/latex/preprint/fullpage.sty" 1137110595 2789 05b418f78b224ec872f5b11081138605 ""
   "/usr/share/texlive/texmf-dist/tex/latex/psnfss/charter.sty" 1586716065 838 9832f7748dc52a9fad0fb6beea4da041 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsbch.fd" 1137110629 576 0b35c587a8acb08219087104826320aa ""
   "/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1bch.fd" 1137110629 962 f834400c020280927efcb3c6f4fbdfbc ""
   "/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1bch.fd" 1137110629 619 714c95de6bdfe7fd2ff11be7337fbafb ""
   "/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty" 1576624809 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
@@ -115,8 +118,8 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1768824541.03582 5312232 f3296911be9cc021788f3f879cf0a47d ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1768823950 6800794 01de9ab85f2fe25f303c631cac72a3c2 ""
-  "Bidut_Sharkar_Shemanto_Backend_Developer_Resume.aux" 1768827751.66847 2714 49e3be15f3a0fa11ec9709c874a42f6f "pdflatex"
-  "Bidut_Sharkar_Shemanto_Backend_Developer_Resume.tex" 1768827750.59046 17621 58c3bbff3f8d22ac9ff5594ad12fecb5 ""
+  "Bidut_Sharkar_Shemanto_Backend_Developer_Resume.aux" 1768990785.65986 2714 cc0d39e72bc1c005b0e4516b4893ad2a "pdflatex"
+  "Bidut_Sharkar_Shemanto_Backend_Developer_Resume.tex" 1768990784.61585 16877 3c7169e8e0a52a6bdbc8c16afc1d06f5 ""
   (generated)
   "Bidut_Sharkar_Shemanto_Backend_Developer_Resume.aux"
   "Bidut_Sharkar_Shemanto_Backend_Developer_Resume.log"

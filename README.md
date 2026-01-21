@@ -3,7 +3,12 @@
 [![](https://github.com/shemanto27/shemanto27/blob/main/github-contribution-grid-snake.svg)](https://www.linkedin.com/in/shemanto/)
 
 ***
-## 📄 [Download My Updated Resume (click here)](https://github.com/shemanto27/shemanto27/raw/main/resume/Bidut_Sharkar_Shemanto_Backend_Developer_Resume.pdf)
+## 📥 Download My Updated Resume
+
+
+
+[![Download Resume (Click Here!)](https://img.shields.io/badge/Download%20Resume%20(Click%20Here!)-FF6B6B?style=for-the-badge&logo=downloadicon&logoColor=white)](https://github.com/shemanto27/shemanto27/raw/main/resume/Bidut_Sharkar_Shemanto_Backend_Developer_Resume.pdf)
+
 ***
 
 
@@ -61,8 +66,8 @@
 
 | Project Link | Timeline | Tools | Project Description | 
 |---|---|---|---|
-| [Game Price AI](https://github.com/shemanto27/GamePriceCheckerAI) | Oct 2025 - | Django REST Framework, Next.js, Docker, AWS, GitHub Actions  | User Scan Game cover using OCR, AI will compare the game with external game API and show prices and details of the game, shows price changes over time |
-| [Menu SideKick - AI Flutter App for Restaurant Menu Check](https://github.com/shemanto27/Menu-Sidekick-STA) | Oct 2025 - | Django REST Framework, Flutter, Docker, AWS, GitHub Actions, OPenAI  | User choose his health condition, allergies, preferred diet and deails when registering in the app. Later he scan menu in restaurants, AI assist which dishes best fit for him, which not |
+| [Game Price AI](https://github.com/shemanto27/GamePriceCheckerAI) 🔒 | Oct 2025 - | Django REST Framework, Next.js, Docker, AWS, GitHub Actions  | User Scan Game cover using OCR, AI will compare the game with external game API and show prices and details of the game, shows price changes over time |
+| [Menu SideKick - AI Flutter App for Restaurant Menu Check](https://github.com/shemanto27/Menu-Sidekick-STA) 🔒 | Oct 2025 - | Django REST Framework, Flutter, Docker, AWS, GitHub Actions, OPenAI  | User choose his health condition, allergies, preferred diet and deails when registering in the app. Later he scan menu in restaurants, AI assist which dishes best fit for him, which not |
 | [PeoplesList - Full Stack Django and React Web App Combines Goggle Sheet and Google Form in one Page](https://github.com/shemanto27/ScholarPage) | March 2025 - | Django REST Framework, React.js , Daisy UI, Tailwind CSS, Docker, AWS, GitHub Actions  | Managing your department, alumni, or club member list shouldn’t be a hassle.PeoplesList is a lightweight web app designed to simplify group member management with a single shared link. One link to:Create and share your group's member list, Allow members to view others and register themselves, Protect access with a shared password, Moderate new entries before they appear, View smart insights through graphs, Email all members instantly |
 | [ScholarPage – Portfolio builder for researchers and students](https://github.com/shemanto27/PeoplesList) | March 2025 - | Django REST Framework, React.js , Daisy UI, Tailwind CSS, Docker, AWS, GitHub Actions  | ScholarPage is a simple, customizable portfolio builder designed specifically for academics. It allows users to showcase their education, research work, publications, projects, and achievements without needing to code — all with a clean, professional UI. |
 
@@ -104,7 +109,7 @@
 # Generative AI, LangChain, LangGraph Projects
 | Project Link | Timeline | Tools | Project Description | 
 |---|---|---| --- |
-| [Tax Assist - AI Bangladeshi Tax Expert using LangChain](https://github.com/shemanto27/TaxAssist)| 2026 | LangChain, Text Embedding, Vector Database | AI Tax helper |
+| [Tax Assist - AI Bangladeshi Tax Expert using LangChain](https://github.com/shemanto27/TaxAssist) 🔒 | 2026 | LangChain, Text Embedding, Vector Database | AI Tax helper |
 
 
 ***
