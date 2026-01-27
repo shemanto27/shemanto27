@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1769477941.23809 "/home/shimanto/projects/shemanto27/resume/Bidut_Sharkar_Shemanto_Backend_Developer_Resume.tex" "Bidut_Sharkar_Shemanto_Backend_Developer_Resume.pdf" "Bidut_Sharkar_Shemanto_Backend_Developer_Resume" 1769477942.0663 0
-  "/etc/texmf/web2c/texmf.cnf" 1768823930.45739 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/shimanto/projects/shemanto27/resume/Bidut_Sharkar_Shemanto_Backend_Developer_Resume.tex" 1769477940.71558 17432 fabd1cb8e3b8c10ac6e77e6f96235423 ""
+["pdflatex"] 1769533359.53772 "/home/shemanto/Projects/shemanto27/resume/Bidut_Sharkar_Shemanto_Backend_Developer_Resume.tex" "Bidut_Sharkar_Shemanto_Backend_Developer_Resume.pdf" "Bidut_Sharkar_Shemanto_Backend_Developer_Resume" 1769533359.93708 0
+  "/etc/texmf/web2c/texmf.cnf" 1769532806.12082 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/home/shemanto/Projects/shemanto27/resume/Bidut_Sharkar_Shemanto_Backend_Developer_Resume.tex" 1769533359.35338 17441 eb987490fc386258534bac25fb7b04dc ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1622837620 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1622837620 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
@@ -116,10 +116,10 @@
   "/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty" 1655411236 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
-  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1768824541.03582 5312232 f3296911be9cc021788f3f879cf0a47d ""
-  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1768823950 6800794 01de9ab85f2fe25f303c631cac72a3c2 ""
-  "Bidut_Sharkar_Shemanto_Backend_Developer_Resume.aux" 1769477941.97557 3184 97e209d5a119fad645b10f0bf947d7b7 "pdflatex"
-  "Bidut_Sharkar_Shemanto_Backend_Developer_Resume.tex" 1769477940.71558 17432 fabd1cb8e3b8c10ac6e77e6f96235423 ""
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1769532813.34385 5312232 f3296911be9cc021788f3f879cf0a47d ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1769532826 6800794 89aa5fd545800f1eee7b93b5a11a973d ""
+  "Bidut_Sharkar_Shemanto_Backend_Developer_Resume.aux" 1769533359.89541 2714 eb8697b2507fa07f7025ca96855f7926 "pdflatex"
+  "Bidut_Sharkar_Shemanto_Backend_Developer_Resume.tex" 1769533359.35338 17441 eb987490fc386258534bac25fb7b04dc ""
   (generated)
   "Bidut_Sharkar_Shemanto_Backend_Developer_Resume.aux"
   "Bidut_Sharkar_Shemanto_Backend_Developer_Resume.log"

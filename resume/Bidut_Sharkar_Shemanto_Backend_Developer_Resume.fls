@@ -1,9 +1,9 @@
-PWD /home/shimanto/projects/shemanto27/resume
+PWD /home/shemanto/Projects/shemanto27/resume
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/shimanto/projects/shemanto27/resume/Bidut_Sharkar_Shemanto_Backend_Developer_Resume.tex
+INPUT /home/shemanto/Projects/shemanto27/resume/Bidut_Sharkar_Shemanto_Backend_Developer_Resume.tex
 OUTPUT Bidut_Sharkar_Shemanto_Backend_Developer_Resume.log
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
