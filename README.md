@@ -67,13 +67,13 @@
 ***
 # Python/Django Projects
 
-| Project Link | Timeline | Tools | Project Description | 
-|---|---|---|---|
-| [Game Price AI](https://github.com/shemanto27/GamePriceCheckerAI)  | Oct 2025 - | Django REST Framework, Next.js, Docker, AWS, GitHub Actions  | User Scan Game cover using OCR, AI will compare the game with external game API and show prices and details of the game, shows price changes over time |
-| [Menu SideKick - AI Flutter App for Restaurant Menu Check](https://github.com/shemanto27/Menu-Sidekick-STA) 🔒 | Oct 2025 - | Django REST Framework, Flutter, Docker, AWS, GitHub Actions, OPenAI  | User choose his health condition, allergies, preferred diet and deails when registering in the app. Later he scan menu in restaurants, AI assist which dishes best fit for him, which not |
-| [Mon5Majeur - AI Flutter App for Restaurant Menu Check]() 🔒 | Dec 2025 - | Django REST Framework, Flutter, Docker, AWS, GitHub Actions, Redis, Websocket | MON5MAJEUR is a modern NBA Fantasy Basketball platform where users can create fantasy teams, join leagues, compete against friends, and track live scores. Built with Django REST Framework, featuring real-time updates via WebSockets, Docker deployment, and AWS integration.  |
-| [PeoplesList - Full Stack Django and React Web App Combines Goggle Sheet and Google Form in one Page](https://github.com/shemanto27/ScholarPage) | March 2025 - | Django REST Framework, React.js , Daisy UI, Tailwind CSS, Docker, AWS, GitHub Actions  | Managing your department, alumni, or club member list shouldn’t be a hassle.PeoplesList is a lightweight web app designed to simplify group member management with a single shared link. One link to:Create and share your group's member list, Allow members to view others and register themselves, Protect access with a shared password, Moderate new entries before they appear, View smart insights through graphs, Email all members instantly |
-| [ScholarPage – Portfolio builder for researchers and students](https://github.com/shemanto27/PeoplesList) | March 2025 - | Django REST Framework, React.js , Daisy UI, Tailwind CSS, Docker, AWS, GitHub Actions  | ScholarPage is a simple, customizable portfolio builder designed specifically for academics. It allows users to showcase their education, research work, publications, projects, and achievements without needing to code — all with a clean, professional UI. |
+| Project Link | Timeline | Tools | Project Description | ProjectVideo |
+|---|---|---|---|---|
+| [Game Price AI](https://github.com/shemanto27/GamePriceCheckerAI)  | Oct 2025 - | Django REST Framework, Next.js, Docker, AWS, GitHub Actions  | User Scan Game cover using OCR, AI will compare the game with external game API and show prices and details of the game, shows price changes over time | [![YouTube Channel](https://img.shields.io/badge/YouTube-ProjectVideo-red?logo=youtube&logoColor=white)](https://www.youtube.com/@YOUR_CHANNEL_NAME) |
+| [Menu SideKick - AI Flutter App for Restaurant Menu Check](https://github.com/shemanto27/Menu-Sidekick-STA) 🔒 | Oct 2025 - | Django REST Framework, Flutter, Docker, AWS, GitHub Actions, OPenAI  | User choose his health condition, allergies, preferred diet and deails when registering in the app. Later he scan menu in restaurants, AI assist which dishes best fit for him, which not | [![YouTube Channel](https://img.shields.io/badge/YouTube-ProjectVideo-red?logo=youtube&logoColor=white)](https://www.youtube.com/@YOUR_CHANNEL_NAME) |
+| [Mon5Majeur - AI Flutter App for Restaurant Menu Check]() 🔒 | Dec 2025 - | Django REST Framework, Flutter, Docker, AWS, GitHub Actions, Redis, Websocket | MON5MAJEUR is a modern NBA Fantasy Basketball platform where users can create fantasy teams, join leagues, compete against friends, and track live scores. Built with Django REST Framework, featuring real-time updates via WebSockets, Docker deployment, and AWS integration.  | [![YouTube Channel](https://img.shields.io/badge/YouTube-ProjectVideo-red?logo=youtube&logoColor=white)](https://www.youtube.com/@YOUR_CHANNEL_NAME) |
+| [PeoplesList - Full Stack Django and React Web App Combines Goggle Sheet and Google Form in one Page](https://github.com/shemanto27/ScholarPage) | March 2025 - | Django REST Framework, React.js , Daisy UI, Tailwind CSS, Docker, AWS, GitHub Actions  | Managing your department, alumni, or club member list shouldn't be a hassle.PeoplesList is a lightweight web app designed to simplify group member management with a single shared link. One link to:Create and share your group's member list, Allow members to view others and register themselves, Protect access with a shared password, Moderate new entries before they appear, View smart insights through graphs, Email all members instantly | [![YouTube Channel](https://img.shields.io/badge/YouTube-ProjectVideo-red?logo=youtube&logoColor=white)](https://www.youtube.com/@YOUR_CHANNEL_NAME) |
+| [ScholarPage – Portfolio builder for researchers and students](https://github.com/shemanto27/PeoplesList) | March 2025 - | Django REST Framework, React.js , Daisy UI, Tailwind CSS, Docker, AWS, GitHub Actions  | ScholarPage is a simple, customizable portfolio builder designed specifically for academics. It allows users to showcase their education, research work, publications, projects, and achievements without needing to code — all with a clean, professional UI. | [![YouTube Channel](https://img.shields.io/badge/YouTube-ProjectVideo-red?logo=youtube&logoColor=white)](https://www.youtube.com/@YOUR_CHANNEL_NAME) |
 
 ***
 
@@ -81,9 +81,9 @@
 
 ***
 # PERN & MERN Full Stack Projects
-| Project Link | Timeline | Tools | Project Description | 
-|---|---|---|---|
-|  [Full Stack University Classroom Management Project using PERN Stack](https://github.com/shemanto27/Full-Stack-Classroom-Management-System-Using-PERN-Stack) | Feb 2026 | PostgreSQL, Express.js, React.js, Node.js, Docker | University Classes management both for students and teachers, similar to Google Classroom with multi-role authentication. clasees creation, homework assign, test score publish, class invitation link generation |
+| Project Link | Timeline | Tools | Project Description | ProjectVideo |
+|---|---|---|---|---|
+|  [Full Stack University Classroom Management Project using PERN Stack](https://github.com/shemanto27/Full-Stack-Classroom-Management-System-Using-PERN-Stack) | Feb 2026 | PostgreSQL, Express.js, React.js, Node.js, Docker | University Classes management both for students and teachers, similar to Google Classroom with multi-role authentication. clasees creation, homework assign, test score publish, class invitation link generation | [![YouTube Channel](https://img.shields.io/badge/YouTube-ProjectVideo-red?logo=youtube&logoColor=white)](https://www.youtube.com/@YOUR_CHANNEL_NAME) |
 
 
 
@@ -103,26 +103,26 @@
 
 # Machine Learning & Deep Learning Projects
 
-| Project Link | Timeline | Tools | Project Description | 
-|---|---|---| --- |
-| [BanglaFoodViT](https://github.com/shemanto27/BanglaFoodViT) | 2025 | Pytorch | Bangladeshi Food Classification using Vision Transformer. Built a Vision Transformer (ViT) from scratch using PyTorch |
-| [Credit Risk Modeling of Banking Data](https://github.com/shemanto27/Credit-Risk-Modeling-on-Bank-Data-using-Machine-Learning) | 2025 | ScikitLearn, XGBOOST | Develop a ML model that can accurately predict credit risk for loan applicants based on historical data and financial metrics |
+| Project Link | Timeline | Tools | Project Description | ProjectVideo |
+|---|---|---|---|---|
+| [BanglaFoodViT](https://github.com/shemanto27/BanglaFoodViT) | 2025 | Pytorch | Bangladeshi Food Classification using Vision Transformer. Built a Vision Transformer (ViT) from scratch using PyTorch | [![YouTube Channel](https://img.shields.io/badge/YouTube-ProjectVideo-red?logo=youtube&logoColor=white)](https://www.youtube.com/@YOUR_CHANNEL_NAME) |
+| [Credit Risk Modeling of Banking Data](https://github.com/shemanto27/Credit-Risk-Modeling-on-Bank-Data-using-Machine-Learning) | 2025 | ScikitLearn, XGBOOST | Develop a ML model that can accurately predict credit risk for loan applicants based on historical data and financial metrics | [![YouTube Channel](https://img.shields.io/badge/YouTube-ProjectVideo-red?logo=youtube&logoColor=white)](https://www.youtube.com/@YOUR_CHANNEL_NAME) |
 
 ***
 
 # Generative AI, LangChain, LangGraph Projects
-| Project Link | Timeline | Tools | Project Description | 
-|---|---|---| --- |
-| [Tax Assist - AI Bangladeshi Tax Expert using LangChain](https://github.com/shemanto27/TaxAssist) 🔒 | 2026 | RAG System, LangChain, Text Embedding, Vector Database, Kubernetes, Docker, FastAPI | AI Tax helper RAG system completly build with microservices structure - separate docker container for each components of RAG pipeline. Ready to scale up with kubernetes |
-| [LinkedIN MCP Server with Claude](https://github.com/shemanto27/TaxAssist) 🔒 | 2026 | RAG System, LangChain, Text Embedding, Vector Database, Kubernetes, Docker, FastAPI | AI Tax helper RAG system completly build with microservices structure - separate docker container for each components of RAG pipeline. Ready to scale up with kubernetes |
+| Project Link | Timeline | Tools | Project Description | ProjectVideo |
+|---|---|---|---|---|
+| [Tax Assist - AI Bangladeshi Tax Expert using LangChain](https://github.com/shemanto27/TaxAssist) 🔒 | 2026 | RAG System, LangChain, Text Embedding, Vector Database, Kubernetes, Docker, FastAPI | AI Tax helper RAG system completly build with microservices structure - separate docker container for each components of RAG pipeline. Ready to scale up with kubernetes | [![YouTube Channel](https://img.shields.io/badge/YouTube-ProjectVideo-red?logo=youtube&logoColor=white)](https://www.youtube.com/@YOUR_CHANNEL_NAME) |
+| [LinkedIN MCP Server with Claude](https://github.com/shemanto27/TaxAssist) 🔒 | 2026 | RAG System, LangChain, Text Embedding, Vector Database, Kubernetes, Docker, FastAPI | AI Tax helper RAG system completly build with microservices structure - separate docker container for each components of RAG pipeline. Ready to scale up with kubernetes | [![YouTube Channel](https://img.shields.io/badge/YouTube-ProjectVideo-red?logo=youtube&logoColor=white)](https://www.youtube.com/@YOUR_CHANNEL_NAME) |
 
 
 ***
 
 # BlockChain Projects
-| Project Link | Timeline | Tools | Project Description | 
-|---|---|---| --- |
-| [Voting DApp](https://github.com/shemanto27/Voting-DApp) | 2026 | Solidity, Etharium  | Voting DApp |
+| Project Link | Timeline | Tools | Project Description | ProjectVideo |
+|---|---|---|---|---|
+| [Voting DApp](https://github.com/shemanto27/Voting-DApp) | 2026 | Solidity, Etharium  | Voting DApp | [![YouTube Channel](https://img.shields.io/badge/YouTube-ProjectVideo-red?logo=youtube&logoColor=white)](https://www.youtube.com/@YOUR_CHANNEL_NAME) |
 
 
 ***
