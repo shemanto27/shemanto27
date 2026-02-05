@@ -66,7 +66,7 @@
 
 
 ***
-# DevOps
+# DevOps/MLOps
 | Project Link | Timeline | Tools | Project Description | ProjectVideo |
 |---|---|---|---|---|
 |  [End-to-End DevOps in Library Management & Borrowing System](https://github.com/shemanto27/Django-Library-Management-Borrowing-System) | Aug 2025 - | Docker, CI/CD, Terraform, Ansible, AWS, Kubernetes, Grafana, Prometheus | Implemented End-to-End DevOps from Dockerizing an App, create infrastructure in AWS using IaC - Terraform + Ansible, CI/CD to DockerHub and EC2 using Github Action, Monitoring using Grafana and Prometheus, orchrestration using Kubernetes | [![YouTube Channel](https://img.shields.io/badge/YouTube-ProjectVideo-red?logo=youtube&logoColor=white)](https://www.youtube.com/@YOUR_CHANNEL_NAME) |
