@@ -95,19 +95,6 @@
 
 
 
-<!-- ***
-
-# Golang Projects
-
-| Project Link | Area | Project Description | Libraries |    
-|---|---|---|---|
-| ✈️ [Data Analysis of British Airways Customers Data](https://github.com/Mabrar92/Data-Analysis-of-British-Airways#readme) | EDA & Hypothesis Testing | This analysis aims to understand the factors influencing customer satisfaction at British Airways, including popular routes, holiday seasons, and overall customer experiences.|Pandas, Matplotlib, Seaborn|
-
- 
-
-
-*** -->
-
 # Machine Learning & Deep Learning Projects
 
 | Project Link | Timeline | Tools | Project Description | ProjectVideo |
@@ -137,4 +124,6 @@
 
 
 </div>
+![mario gif](https://github.com/user-attachments/assets/7cb73ea8-aaf4-405f-80a0-a7fd754e87bd)
+
 
