@@ -1,6 +1,6 @@
-[![](https://github.com/shemanto27/shemanto27/blob/main/chat.svg)](https://www.linkedin.com/in/shemanto/)
+[![](chat.svg)](https://www.linkedin.com/in/shemanto/)
 
-[![](https://github.com/shemanto27/shemanto27/blob/main/github-contribution-grid-snake.svg)](https://www.linkedin.com/in/shemanto/)
+[![](github-contribution-grid-snake.svg)](https://www.linkedin.com/in/shemanto/)
 
 ***
 ## 📥 Download My Updated Resume
@@ -123,7 +123,7 @@
 
 
 
+  <img src="mario gif.gif" alt="mario gif" />
 </div>
-![mario gif](https://github.com/user-attachments/assets/7cb73ea8-aaf4-405f-80a0-a7fd754e87bd)
 
 
