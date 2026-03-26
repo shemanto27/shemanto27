@@ -19,28 +19,40 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C/C++(Embedded)](https://img.shields.io/badge/C/C++-00ADD8?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-**Frontend Technologies**
+**Frontend Technologies- Web + Mobile App**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ReactNative](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend & Caching**
+**Backend Technologies**
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Websocket](https://img.shields.io/badge/Websocket-37814A?style=for-the-badge&logo=websocket&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+**IoT & Embedded Systems**
+
+![ESP IDF](https://img.shields.io/badge/ESP_IDF-00ADD8?style=for-the-badge&logo=esp-idf&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-37814A?style=for-the-badge&logo=mqtt&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-37814A?style=for-the-badge&logo=freertos&logoColor=white)
+![OTA](https://img.shields.io/badge/OTA-37814A?style=for-the-badge&logo=ota&logoColor=white)
+![FreeCAD](https://img.shields.io/badge/FreeCAD-37814A?style=for-the-badge&logo=freecad&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-37814A?style=for-the-badge&logo=kicad&logoColor=white)
+
 
 **Databases & ORMs**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
 **AI & Machine Learning**
@@ -86,13 +98,6 @@
 
 
 
-***
-# PERN & MERN Full Stack Projects
-| Project Link | Timeline | Tools | Project Description | ProjectVideo |
-|---|---|---|---|---|
-|  [Full Stack University Classroom Management Project using PERN Stack](https://github.com/shemanto27/Full-Stack-Classroom-Management-System-Using-PERN-Stack) | Feb 2026 | PostgreSQL, Express.js, React.js, Node.js, Docker | University Classes management both for students and teachers, similar to Google Classroom with multi-role authentication. clasees creation, homework assign, test score publish, class invitation link generation | [![YouTube Channel](https://img.shields.io/badge/YouTube-ProjectVideo-red?logo=youtube&logoColor=white)](https://www.youtube.com/@YOUR_CHANNEL_NAME) |
-
-
 
 
 # Machine Learning & Deep Learning Projects
@@ -113,10 +118,10 @@
 
 ***
 
-# BlockChain Projects
+# IoT Projects
 | Project Link | Timeline | Tools | Project Description | ProjectVideo |
 |---|---|---|---|---|
-| [Voting DApp](https://github.com/shemanto27/Voting-DApp) | 2026 | Solidity, Etharium  | Voting DApp | [![YouTube Channel](https://img.shields.io/badge/YouTube-ProjectVideo-red?logo=youtube&logoColor=white)](https://www.youtube.com/@YOUR_CHANNEL_NAME) |
+| [End-to-End IoT Project using ESP-IDF Room Temperature and Humidity Monitoring Device](https://github.com/shemanto27/End-to-End-IoT-Project-using-ESP-IDF-Room-Temperature-and-Humidity-Monitoring-Device) | 2026 | ESP32, MQTT, Django, React, Docker, AWS | End-to-End IoT Project using ESP-IDF Room Temperature and Humidity Monitoring Device | [![YouTube Channel](https://img.shields.io/badge/YouTube-ProjectVideo-red?logo=youtube&logoColor=white)](https://www.youtube.com/@YOUR_CHANNEL_NAME) |
 
 
 ***
