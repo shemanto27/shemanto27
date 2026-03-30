@@ -1,9 +1,9 @@
-PWD /home/shimanto/projects/shemanto27/resume
+PWD /home/shemanto/Projects/shemanto27/resume
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/shimanto/projects/shemanto27/resume/Bidut_Sharkar_Shemanto_Backend_Developer_Resume.tex
+INPUT /home/shemanto/Projects/shemanto27/resume/Bidut_Sharkar_Shemanto_Backend_Developer_Resume.tex
 OUTPUT Bidut_Sharkar_Shemanto_Backend_Developer_Resume.log
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -234,9 +234,9 @@ INPUT /usr/share/texlive/texmf-dist/fonts/vf/bitstrea/charter/bchri7t.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/bitstrea/charter/bchri8r.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/bitstrea/charter/bchbi7t.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/bitstrea/charter/bchbi8r.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/vf/bitstrea/charter/bchb8c.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/bitstrea/charter/bchri7t.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/bitstrea/charter/bchri8r.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/bitstrea/charter/bchb8c.vf
 INPUT Bidut_Sharkar_Shemanto_Backend_Developer_Resume.aux
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb
